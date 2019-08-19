@@ -28,7 +28,7 @@
     "knex": "^0.15.2",
     "login": "^0.8.0",
     "reactstrap": "^6.5.0",
-    "sqlite3": "^4.0.4"
+    "sqlite3": "^4.1.0"
   },
   "devDependencies": {
     "nodemon": "^1.18.6"
